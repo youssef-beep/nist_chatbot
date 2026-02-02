@@ -1,0 +1,15 @@
+# Python folders
+__pycache__/
+venv/
+.env
+
+# Local Database (User generates this via script)
+chroma_db/
+
+# PDFs (Keep the folder clean)
+nist_csf_clean.pdf
+nist_csf.pdf
+
+# OS specific
+.DS_Store
+Thumbs.db

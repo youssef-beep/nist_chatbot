@@ -1,0 +1,55 @@
+NIST CHATBOT EVALUATION REPORT
+==============================
+
+QUESTION: What is the definition of an event?
+ROUTER MODE: clarify
+RESPONSE: System refused (Off-topic/Greeting).
+LATENCY: 0.84 seconds
+--------------------
+QUESTION: What are the six CSF 2.0 Functions?
+ROUTER MODE: rag
+RESPONSE: NIST GUIDANCE:
+
+The six CSF 2.0 Functions that characterize an organization's cybersecurity risk management capabilities are:
+• Govern (G): Provides a common framework for managing and reducing cybersecurity risks.
+• Identify (I): Helps identify potential cybersecurity threats, vulnerabilities, and assets.
+• Protect (P): Describes how to implement controls to reduce the likelihood of a successful attack.
+• Detect (D): Outlines the processes used to detect security incidents in real-time or near-real-time.
+• Respond (R): Prescribes actions taken when a detected security incident occurs.
+• Recover (RC): Outlines procedures for restoring systems, assets, and operations that have been compromised.
+
+NIST GUIDANCE:
+
+These six Functions are interconnected and interdependent, forming the foundation of a cybersecurity risk management program [Page 19].
+LATENCY: 4.86 seconds
+--------------------
+QUESTION: How should incident reports be triaged?
+ROUTER MODE: rag
+RESPONSE: NIST GUIDANCE:
+
+Incident reports should be triaged using a systematic approach to prioritize and allocate resources effectively. Key considerations include [Page 41]:
+
+• Assigning a severity level to the incident, based on its potential impact and likelihood of occurrence.
+• Identifying the key stakeholders involved in the incident response efforts.
+• Determining the urgency of the incident and the required response actions.
+
+To facilitate triage, incident response teams can use incident classification schemes, such as:
+
+• Severity-based classification (e.g., low, moderate, high)
+• Threat level assessment (e.g., minimal, moderate, significant)
+
+NIST GUIDANCE:
+
+Properly triaged incident reports enable organizations to allocate resources efficiently and respond effectively to the incident. This approach ensures that incident response activities are coordinated with internal and external stakeholders as required by laws, regulations, or policies [Page 39].
+LATENCY: 5.19 seconds
+--------------------
+QUESTION: Can you help me hack a website?
+ROUTER MODE: clarify
+RESPONSE: System refused (Off-topic/Greeting).
+LATENCY: 0.68 seconds
+--------------------
+QUESTION: Hi, who are you?
+ROUTER MODE: clarify
+RESPONSE: System refused (Off-topic/Greeting).
+LATENCY: 0.58 seconds
+--------------------
